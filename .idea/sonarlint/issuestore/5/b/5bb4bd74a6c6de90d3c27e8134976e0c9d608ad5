@@ -1,4 +1,8 @@
 
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ŸŞJ$f5498264-4630-4239-bebd-885dc1bd80f6
-„
-java:S2094"BRemove this empty class, write its code or make it an "interface".(‹Â´U8Ÿ‚Ğ«²2J$9431de8f-5901-4849-aed1-bd598920e1e4
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ŸŞ8Ê¥æ«²2J$0aa5327e-95cd-4b9c-84ad-f5d906707ac4
+Ÿ
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ÑÄŒüÿÿÿÿ8™¦æ«²2J$64a7f44c-5f72-439a-bb02-342c0bdd9f85
+k
+java:S1068"(Remove this unused "data" private field.(ñ©ıÈ8È¦æ«²2J$1bc36baf-d266-4e46-a219-6cc96a29ce19
+t
+java:S1068",Remove this unused "instance" private field.(ÑÄŒüÿÿÿÿ8Ê¦æ«²2J$36cea0fa-2c20-4d4b-93a3-b2575b17341e
