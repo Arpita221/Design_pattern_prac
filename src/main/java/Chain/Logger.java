@@ -1,7 +1,9 @@
 package Chain;
 
 abstract class Logger {
-
+    public static int INFO = 1;
+    public static int DEBUG = 2;
+    public static int ERROR = 3;
 
     protected int level;
     protected Logger nextLogger;
