@@ -56604,3 +56604,39 @@ w
 G.idea/sonarlint/issuestore/a/d/ad9bd4ccb9214167b95b4784e2edb54e4279f19e,0\1\0167d4f8e8caa8ebc087da3ae93e2ba3e4660ae5
 Å
 Q.idea/sonarlint/securityhotspotstore/a/d/ad9bd4ccb9214167b95b4784e2edb54e4279f19e,0\9\094019baadd80ea6e4af5e071a10f09154fa6c99
+Y
+)src/main/java/prototype/VehicleCache.java,9\6\9620db2e45c5b4c7ebb3f8007b3848594b4bab2a
+T
+$src/main/java/prototype/Vehicle.java,d\8\d8f072cdeb02dcfce52ba183829b4a5ba57da4a9
+P
+ src/main/java/prototype/Bus.java,d\5\d5bf5c8f8725f53128040bc0b558132a20dc8b7a
+P
+ src/main/java/prototype/Car.java,e\3\e3c624611d4aadcebf463d320c3544a9092f73f0
+T
+$src/main/java/prototype/Mainapp.java,e\4\e4a5df677420d7ec1d3f6c5be43ab6b8dc03fcd8
+P
+ src/main/java/Adapter/Coffe.java,a\4\a4526b32b45e0158324cbc40cf24612e52980830
+V
+&src/main/java/Adapter/BasicCoffee.java,3\a\3a90049972365a0845ed7d970514fe594d931a84
+Y
+)src/main/java/Adapter/CoffeDecorator.java,0\a\0a520c5ebdb305c5f7cb95ce575417ece326258f
+X
+(src/main/java/Adapter/MilkDecorator.java,d\f\dfb08385e791d3cb028dbb13f4712d21a446e551
+Y
+)src/main/java/Adapter/SugerDecorator.java,5\d\5dc6c7541e21962c55e126e7b5a7e869c6c0f5c2
+R
+"src/main/java/Adapter/Mainapp.java,c\7\c79678aeb481fd6ad114dc27f806e7de82cf9ce6
+U
+%src/main/java/Adapter/BasicCoffe.java,d\1\d159c47a7bc0d708ac5cbe9a79205a516dcf4ffd
+[
++src/main/java/decorator/SugerDecorator.java,a\7\a71bf941fdc442c7c126afb8af60389517bcbd03
+Z
+*src/main/java/decorator/MilkDecorator.java,9\c\9c075830eaa529ca62b4152aac1dafbf0e9d3609
+T
+$src/main/java/decorator/Mainapp.java,e\2\e2fa703c9162c7ea108fdf7bfeae5d466d4dda70
+R
+"src/main/java/decorator/Coffe.java,5\d\5d38d418155ed27ecac760ee8d91cc872d7c2ba1
+[
++src/main/java/decorator/CoffeDecorator.java,7\b\7bc6ddecdffd70f27f80a04db71e25eebb5e723c
+X
+(src/main/java/decorator/BasicCoffee.java,1\4\14c610b0786fb742679afee98e25d98a86c34351
